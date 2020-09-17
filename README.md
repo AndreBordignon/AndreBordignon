@@ -1,4 +1,4 @@
-#André Guilherme da Motta Bordignon [![Linkedin Badge](https://img.shields.io/badge/-André_Bordignon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrebordignon/)](https://www.linkedin.com/in/andrebordignon/) 
+# André Guilherme da Motta Bordignon   [![Linkedin Badge](https://img.shields.io/badge/-André_Bordignon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrebordignon/)](https://www.linkedin.com/in/andrebordignon/) 
 
 A little about me:
 
