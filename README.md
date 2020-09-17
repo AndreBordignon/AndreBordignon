@@ -8,5 +8,5 @@ A little about me:
 - 💬 Ask me about anything, if i can't help you, we'll learn together :)
 
 
-[![Andre's github stats](https://github-readme-stats.vercel.app/api?username=AndreBordignon&show_icons=true&count_private=true)](https://github.com/AndreBordignon/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBordignon)](https://github.com/AndreBordignon)
+[![Andre's github stats](https://github-readme-stats.vercel.app/api?username=AndreBordignon&show_icons=true&count_private=true)](https://github.com/AndreBordignon/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBordignon)](https://github.com/AndreBordignon)
 
