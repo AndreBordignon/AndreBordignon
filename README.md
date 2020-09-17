@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+A little about me:
 
 - 🔭 I’m currently working on React Native apps
 - 🌱 I’m currently learning TypeScript, NodeJS, NextJS
