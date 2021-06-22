@@ -2,9 +2,9 @@
 
 A little about me:
 
-- 🔭 I’m currently working on React Native apps
-- 🌱 I’m currently learning NodeJS and GraphQL
-- 👯 I’m looking to collaborate on apps that can make a difference in peoples lifes
+- 🔭 I’m currently working as Tech Lead of a mobile apps team;
+- 🌱 I’m currently learning NodeJS and Python;
+- 👯 I’m looking to collaborate on projects that can make a difference in peoples lifes;
 - 💬 Ask me about anything, if i can't help you, we'll learn together :)
 
 
