@@ -2,7 +2,7 @@
 
 A little about me:
 
-- 🔭 I’m currently working as Tech Lead of a team with 5 devs;
+- 🔭 I’m currently working as React Native developer;
 - 🌱 I’m currently learning NodeJS and Python;
 - 👯 I’m looking to collaborate on projects that can make a difference in peoples lifes;
 - 💬 Ask me about anything, if i can't help you, we'll learn together :)
