@@ -2,10 +2,10 @@
 
 A little about me:
 
-- 🔭 I’m currently working as JavaScript developer;
-- 🌱 I’m currently learning NodeJS and Python;
-- 👯 I’m looking to collaborate on projects that can make a difference in peoples lifes;
-
+- 🔭 I’m working as JavaScript developer;
+- 🌱 I’m learning Python & Machine Learning;
+- 👯 Interest in e-sports community projects;
+  
 
 [![Andre's github stats](https://github-readme-stats.vercel.app/api?username=AndreBordignon&show_icons=true&count_private=true)](https://github.com/AndreBordignon/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBordignon)](https://github.com/AndreBordignon)
 
