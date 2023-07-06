@@ -7,5 +7,5 @@ A little about me:
 - 👯 Interest in e-sports community projects;
   
 
-[![Andre's github stats](https://github-readme-stats.vercel.app/api?username=AndreBordignon&show_icons=true&theme=vue&count_private=true)](https://github.com/AndreBordignon/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBordignon)](https://github.com/AndreBordignon)
+[![Andre's github stats](https://github-readme-stats.vercel.app/api?username=AndreBordignon&show_icons=true&theme=vue&count_private=true)](https://github.com/AndreBordignon/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBordignon&theme=vue)](https://github.com/AndreBordignon)
 
