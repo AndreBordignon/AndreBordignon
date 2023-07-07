@@ -1,4 +1,4 @@
-<h1 align="center">André Bordignon  [![Linkedin Badge](https://img.shields.io/badge/-André_Bordignon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrebordignon/)](https://www.linkedin.com/in/andrebordignon/) </h5>
+<h1 align="center">André Bordignon</h5>
 
 
 <h5 align="center">I'm a brazilian JavaScript Developer</h5>
