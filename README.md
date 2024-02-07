@@ -3,14 +3,15 @@
 
 <h5 align="center">I'm a brazilian JavaScript Developer</h5>
 <h5 align="center">💼 Front End Engineer at <a href="http://ciss.com.br">CISS S.A</a></h5>
-<h5 align="center">❤️ Passionate for Front End development and UI Design</h5>
-<h5 align="center">❤️ Passionate about eSports projects and communitys</h5>
+<h5 align="center">❤️ React, React Native + UI Design</h5>
+<h5 align="center">❤️ eSports projects</h5>
 
 <br />
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 </p>
 
