@@ -6,6 +6,8 @@
 <h5 align="center">❤️ React, React Native + UI Design</h5>
 <h5 align="center">❤️ eSports projects</h5>
 
+<a href="https://www.andrebordignon.dev/" target="_blank"><h5 align="center">https://andrebordignon.dev</h5></a>
+
 <br />
 <p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
