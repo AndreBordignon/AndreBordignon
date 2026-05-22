@@ -20,6 +20,6 @@
 <br />
 <p align="center">
 
-|     <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrebordignon&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Andre github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebordignon&layout=compact&theme=vue&hide_border=true" /></a></p> |
+[André GitHub stats]([(https://github-readme-stats.shion.dev/api?username=AndreBordignon]])(https://github-readme-stats.shion.dev/api?username=AndreBordignon)
 | ------------- | ------------- |
 </p>
