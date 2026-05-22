@@ -20,6 +20,6 @@
 <br />
 <p align="center">
 
-[André GitHub stats]([(https://github-readme-stats.shion.dev/api?username=AndreBordignon]])(https://github-readme-stats.shion.dev/api?username=AndreBordignon)
+[André GitHub stats](https://github-readme-stats.shion.dev/api?username=AndreBordignon)
 | ------------- | ------------- |
 </p>
